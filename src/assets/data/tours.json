@@ -1,0 +1,58 @@
+[
+    {
+      "title": "Howrah Bridge",
+      "city": "Kolkata",
+      "address": "Somewhere in Kolkata",
+      "distance": 300,
+      "price": 99,
+      "maxGroupSize": 10,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "/tour-images/howrah-bridge.jpg",
+      "photo2":"/tour-images/howrah-bridge2.jpg",
+      "featured": true
+    },
+    {
+      "title": "Goa, India",
+      "city": "Panji",
+      "address": "Somewhere in Panji",
+      "distance": 400,
+      "price": 99,
+      "maxGroupSize": 8,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "/tour-images/beach-resort.jpg",
+      "photo2": "/tour-images/goa2.jpg",
+      "featured": true
+    },
+    {
+      "title": "Sindh Valley, Kashmir",
+      "city": "Ganderbal",
+      "address": "Somewhere in Kashmir",
+      "distance": 500,
+      "price": 99,
+      "maxGroupSize": 8,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "/tour-images/sindh-valley.jpg",
+      "photo2":"/tour-images/sindh-valley2.webp",
+      "featured": true
+    },
+    {
+      "title": "Taj Mahal, India",
+      "city": "Agra",
+      "address": "Somewhere in Agra",
+      "distance": 500,
+      "price": 99,
+      "maxGroupSize": 8,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "/tour-images/taj-mahal.jpg",
+      "photo2":"/tour-images/taj-mahal2.jpg",
+      "featured": true
+    }
+  ]

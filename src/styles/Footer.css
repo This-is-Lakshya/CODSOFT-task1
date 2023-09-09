@@ -1,0 +1,43 @@
+.footer{
+    padding-top: 70px;
+    padding-bottom: 30px;
+    background-color: rgb(0, 0, 0);
+}
+
+.footer .logo img{
+    width: 50%;
+    margin-bottom: 1rem;
+}
+
+.footer .logo p{
+    color: grey;
+}
+
+.social__links span a{
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+}
+
+.footer__link-title{
+    color: white;
+}
+
+.footer__quick-links li a{
+    text-decoration: none;
+    color: grey;
+}
+
+.footer__quick-links li{
+    background-color: black;
+    color: white;
+}
+
+.footer__quick-links li p{
+    color: grey;
+}
+
+.footer__quick-links h6 span{
+    color: white;
+    font-size: 1.1rem;
+}
